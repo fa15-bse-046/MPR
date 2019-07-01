@@ -36,5 +36,9 @@ public class Calculator {
         System.out.println("the division is = "+divide);
         return divide;
     }
+    public void print()
+    {
+        System.out.println("this is a print method");
+    }
 }
  
